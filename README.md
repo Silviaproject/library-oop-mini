@@ -21,10 +21,9 @@ Project Library OOP Mini dibuat menggunakan bahasa pemrograman PHP.
 
 ## Cara Menjalankan
 
-1. Pastikan PHP sudah terinstall.
-2. Simpan project di folder server lokal seperti `htdocs`.
-3. Jalankan melalui browser menggunakan localhost.
+1. Pastikan PHP dan XAMPP sudah terinstall.
+2. Simpan project di dalam folder `htdocs`.
+3. Jalankan Apache melalui XAMPP.
+4. Buka project melalui browser dengan alamat:
 
-Contoh:
-
-http://localhost/library-oop-mini/
+http://localhost/pwf/Tugas2/
