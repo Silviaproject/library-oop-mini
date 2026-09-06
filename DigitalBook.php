@@ -16,5 +16,9 @@ class DigitalBook extends Book {
         echo "Ukuran File: " . $this->ukuranFile . " MB<br>";
         echo "Status: " . $this->status . "<br><br>";
     }
+    
+    public function download() {
+    echo "Buku digital " . $this->judul . " siap untuk diunduh.<br><br>";
+}
 }
 ?>

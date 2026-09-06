@@ -27,6 +27,7 @@ $buku3->tampilkanInfo();
 echo "<h2>DIGITAL BOOK</h2>";
 
 $bukuDigital->tampilkanInfo();
+$bukuDigital->download();
 
 // Menampilkan informasi member
 echo "<h2>INFORMASI MEMBER</h2>";
